@@ -1,0 +1,40 @@
+1.to insert press"i".
+2.press ESC for command mode.
+3."x" to delete
+4."u" tp undo.
+5.CTRL-R to read.
+6."A" to append.
+7.:wq to save and exit.
+8.ql- to trash all change.
+9.dw- move the cursor two.
+10.2w- to move forward.
+11.3e- to move the end of third word forward.
+12.0-to move to the start of the line.
+13.d2w- which delete 2word number can changeed.
+14.dd to delete the line and 2dd to delete to line.
+15.p-puts the previously delete text after the cursor
+16.r- to replace the letter eg: press replace the letter with e.
+17.ce- to change the until the end of the word.
+18.ce-todelete the word and insert mode.
+19.G-to move you to bottom of the the file.
+20.gg-to move with start the file.
+21.% to find the matching.
+22.:s/old/new/g to substitute "new" for "oid" gis globally.
+23./-backward search n to find next occurence and N to search in opposite direction.
+24.?forward search
+25.:| to run the shell commands likedir,:lls
+26.:w- save the file
+27.v- start visual mode for search the lines and perform operations like delete
+28.:r-filename will insert the content intom the currentfile
+29.y-operator to copy text using v visual mode and start  instert mode
+30.yw-copy yank oneword.
+31.O-opens a line above tne cursor.
+32.o-opens a line below the cursor and start and instert mode.
+33. a- instert text after tne end of the line
+34.A-instert text after the end ofthe line.
+35.e- command moves to the end of the word.
+36.y- operator yanktext
+36.p puts (past)it.
+37. R- enter replace mode until <ESC> is pressed.
+38.ctrl-w to jump from one window to another
+
