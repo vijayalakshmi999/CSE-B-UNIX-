@@ -1,0 +1,15 @@
+unix lab session-2
+mkdir-creates directory
+cd-command
+1.who - 
+2.who am; -it show the username with batch
+3.cal- calenderpart of particular month
+4.uname - displays name of the operateing system
+5.date- its show the date,time &day
+6.ls - its show the filename
+7.ls -l-long list of format(total number of directories,file directory name,modified date and file name)
+8.ls -a-list including hidden file which is represented by '-'
+9.ls -f-  classfiction the files
+10.ls -r- its show subdirectories
+11.time -display the real time, user time and system
+
