@@ -1,0 +1,11 @@
+Allow a search for different formats in a name [for example, Vijayalakshmi]
+ A) 1) grep -e "VIJAYALAKSHMI" -e "VIJAYALAXMI" -e "VIJAYALKSMI" DETAILS.txt
+ 2) grep '[SH-S-X]' DETAILS.csv. 3) grep '[vV][kK]' DETAILS.csv ( for name and surname, exemplating: Vijayalakshmi Kumbar)
++To append text to a line using sed
++A) sed '1i\
++>Hello
++>Hi
++>'emp.lst>$$
++mv $$ emp1.lst
++cat $$ emp1.lst
++
